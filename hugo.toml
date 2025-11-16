@@ -1,4 +1,54 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://github.com/tUrInG1uRKSS/mypage/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "hugo-noir"
+
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true # Recommended for clearer URLs like /en/blog, /es/blog
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "Your Site Title (English)"
+    weight = 1
+    contentDir = "content/en" # Ensure you have this directory
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        name = "About"
+        pageRef = "/about"
+        weight = 1
+      # ... other English menu items
+  [languages.es]
+    languageName = "Español"
+    title = "Your Site Title (Spanish)"
+    weight = 2
+    contentDir = "content/es" # Ensure you have this directory
+    [languages.es.menu]
+      [[languages.es.menu.main]]
+        name = "Sobre Mí" # Translated name
+        pageRef = "/about" # pageRef should ideally point to the same logical page
+        weight = 1
+      # ... other Spanish menu items
+  [languages.fr]
+    languageName = "Français"
+    title = "Your Site Title (French)"
+    weight = 3
+    contentDir = "content/fr" # Ensure you have this directory
+    [languages.fr.menu]
+      [[languages.fr.menu.main]]
+        name = "À Propos" # Translated name
+        pageRef = "/about"
+        weight = 1
+      # ... other French menu items
+
+[params]
+  name = "Leandro Llontop"
+  location = "Nantes, France"
+  description = "Description ..."
+  # profile_image = "/images/your-profile.jpg" # Place in your site's static/images/
+  # Social links
+  github = "https://github.com/tUrInG1uRKSS"
+  twitter = "https://twitter.com/yourusername"
+  linkedin = "https://www.linkedin.com/in/leandrollontopllh/"
+  email = "m.leandro.ll.herrera@gmail.com"
+  # ... other params ...
