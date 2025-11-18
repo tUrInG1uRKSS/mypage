@@ -1,25 +1,56 @@
 [[experience]]
-  role = "Senior Developer"
-  company = "Tech Solutions Inc."
-  company_link = "https://www.techsolutions.com" # Add company URL here
-  period = "Jan 2020 - Present"
-  country = "USA" # New field for region/country
-  # description = "Longer description of the role..." # Optional detailed description
+  role = "Robotics & Autonomous Systems Engineer"
+  company = "Autonomous Rover Research Project – UNI Peru"
+  period = "2024 – 2025"
+  country = "Peru / France"
+  company_link = "https://www.uni.edu.pe"
   responsibilities = [
-    "Developed and maintained web applications.",
-    "Collaborated with cross-functional teams.",
-    "Led junior developers."
+    "Designed and simulated an autonomous rover with a Rocker-Bogie suspension system for agricultural terrains.",
+    "Developed static–dynamic simulations in MATLAB/Simulink to evaluate navigation performance on irregular surfaces.",
+    "Designed mechanical components in SolidWorks and performed structural analysis in ANSYS.",
+    "Implemented perception modules using stereo cameras and simulation in Gazebo for person detection and obstacle avoidance.",
+    "Integrated embedded control with ESP32, motor drivers, and sensor systems for real-time navigation."
   ]
-  technologies = ["Go", "Docker", "Kubernetes", "React"]
+  technologies = ["MATLAB/Simulink", "SolidWorks", "ANSYS", "Gazebo", "ROS2", "Python", "C++", "ESP32"]
+
 
 [[experience]]
-  role = "Software Engineer"
-  company = "Innovate LLC"
-  # company_link = "" # Omit or leave blank if no link
-  period = "Jun 2018 - Dec 2019"
-  country = "Canada"
+  role = "Embedded Systems & Control Developer"
+  company = "Mechatronics Engineering Projects – UNI"
+  period = "2023 – 2024"
+  country = "Peru"
   responsibilities = [
-    "Contributed to full-stack development projects.",
-    "Participated in code reviews and agile sprints."
+    "Developed motor control systems using ESP32, TB6612FNG drivers, and quadrature encoders without external libraries.",
+    "Implemented SPI communication to acquire temperature data from MAX31865 sensors.",
+    "Built control algorithms for DC motors and articulated robotic mechanisms.",
+    "Prototyped PCB-level circuits and validated sensor integration for lab projects."
   ]
-  technologies = ["Python", "Django", "PostgreSQL"]
+  technologies = ["ESP32", "Embedded C", "Python", "SPI", "Motor Control", "Sensors"]
+
+
+[[experience]]
+  role = "AI & Computer Vision Developer (Academic Projects)"
+  company = "Independent / University Projects"
+  period = "2022 – 2024"
+  country = "Peru / Germany"
+  responsibilities = [
+    "Implemented computer vision pipelines using OpenCV for object detection and tracking.",
+    "Developed deep learning models in PyTorch for robotics-related tasks.",
+    "Created simulations in MuJoCo for advanced physics and robotic systems.",
+    "Performed data extraction and automation tasks using Python (Pandas, PDFMiner, BeautifulSoup)."
+  ]
+  technologies = ["Python", "OpenCV", "PyTorch", "MuJoCo", "Pandas", "BeautifulSoup", "Linux"]
+
+
+[[experience]]
+  role = "Exchange Student – International Engineering"
+  company = "Hochschule Schmalkalden"
+  company_link = "https://www.hs-schmalkalden.de"
+  period = "2023"
+  country = "Germany"
+  responsibilities = [
+    "Completed an exchange semester specializing in robotics, embedded systems, and industrial automation.",
+    "Worked on projects involving microcontrollers, control theory, and real-time systems.",
+    "Developed a multi-sensor lab project combining embedded programming and applied control."
+  ]
+  technologies = ["Embedded Systems", "Control Theory", "C", "Python"]

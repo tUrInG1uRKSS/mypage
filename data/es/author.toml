@@ -1,0 +1,19 @@
+[author]
+  name = "Leandro Llontop"
+  location = "Nantes, Francia"
+  description = "Ingeniero en Robótica y Sistemas Autónomos | Mecatrónica | Control"
+  
+  # Imagen de perfil — asegúrate de que el archivo exista en /static/images/
+  profile_image = "/images/photo1.jpeg"
+
+  # Enlaces sociales
+  github   = "https://github.com/tUrInG1uRKSS"
+  linkedin = "https://www.linkedin.com/in/leandrollontopllh/"
+  # twitter  = "https://twitter.com/yourusername"   # Eliminar si no se usa
+  email    = "m.leandro.ll.herrera@gmail.com"
+
+  # Enlaces adicionales (opcional)
+  # personal_website = "https://yourdomain.com"
+  # scholar = "https://scholar.google.com/..."
+  # instagram = "https://instagram.com/..."
+  cv = "/files/LeandroLlontopCV.pdf"

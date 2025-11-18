@@ -1,0 +1,53 @@
+[[experience]]
+  role = "Ingeniero en Robótica y Sistemas Autónomos"
+  company = "Proyecto Rover Autónomo – UNI Perú"
+  period = "2024 – 2025"
+  country = "Perú / Francia"
+  company_link = "https://www.uni.edu.pe"
+  responsibilities = [
+    "Diseñé y simulé un rover autónomo con suspensión Rocker-Bogie para mejorar la navegación en terrenos agrícolas irregulares.",
+    "Desarrollé simulaciones estático-dinámicas en MATLAB/Simulink para evaluar el desempeño de navegación.",
+    "Diseñé componentes mecánicos en SolidWorks y realicé análisis estructural en ANSYS.",
+    "Implementé módulos de percepción con cámaras estéreo y simulación en Gazebo para detección de personas y obstáculos.",
+    "Integré control embebido con ESP32, drivers de motor y sensores para navegación en tiempo real."
+  ]
+  technologies = ["MATLAB/Simulink", "SolidWorks", "ANSYS", "Gazebo", "ROS2", "Python", "C++", "ESP32"]
+
+[[experience]]
+  role = "Desarrollador de Sistemas Embebidos y Control"
+  company = "Proyectos de Ingeniería Mecatrónica – UNI"
+  period = "2023 – 2024"
+  country = "Perú"
+  responsibilities = [
+    "Desarrollé sistemas de control de motores usando ESP32, drivers TB6612FNG y encoders sin librerías externas.",
+    "Implementé comunicación SPI para adquisición de datos de sensores MAX31865.",
+    "Construí algoritmos de control para motores DC y mecanismos robóticos articulados.",
+    "Prototipé circuitos a nivel PCB y validé integración de sensores para proyectos de laboratorio."
+  ]
+  technologies = ["ESP32", "Embedded C", "Python", "SPI", "Control de Motores", "Sensores"]
+
+[[experience]]
+  role = "Desarrollador de IA y Visión por Computador (Proyectos Académicos)"
+  company = "Proyectos Independientes / Universidad"
+  period = "2022 – 2024"
+  country = "Perú / Alemania"
+  responsibilities = [
+    "Implementé pipelines de visión por computador usando OpenCV para detección y seguimiento de objetos.",
+    "Desarrollé modelos de deep learning en PyTorch para tareas robóticas.",
+    "Creé simulaciones en MuJoCo para sistemas robóticos y física avanzada.",
+    "Realicé extracción de datos y automatización de documentos con Python (Pandas, PDFMiner, BeautifulSoup)."
+  ]
+  technologies = ["Python", "OpenCV", "PyTorch", "MuJoCo", "Pandas", "BeautifulSoup", "Linux"]
+
+[[experience]]
+  role = "Estudiante de Intercambio – Ingeniería Internacional"
+  company = "Hochschule Schmalkalden"
+  company_link = "https://www.hs-schmalkalden.de"
+  period = "2023"
+  country = "Alemania"
+  responsibilities = [
+    "Completé un semestre de intercambio especializado en robótica, sistemas embebidos y automatización industrial.",
+    "Realicé proyectos con microcontroladores, teoría de control y sistemas en tiempo real.",
+    "Desarrollé un proyecto de laboratorio con múltiples sensores combinando programación embebida y control aplicado."
+  ]
+  technologies = ["Sistemas Embebidos", "Teoría de Control", "C", "Python"]

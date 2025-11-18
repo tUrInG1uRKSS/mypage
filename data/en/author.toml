@@ -1,11 +1,19 @@
 [author]
   name = "Leandro Llontop"
   location = "Nantes, France"
-  description = "Description ..."
-  # profile_image = "/images/your-profile.jpg" # Place in your site's static/images/
+  description = "Robotics & Autonomous Systems Engineer | Mechatronics | Control"
+  
+  # Profile image — make sure the file exists in /static/images/
+  profile_image = "/images/photo1.jpeg"
+
   # Social links
-  github = "https://github.com/tUrInG1uRKSS"
-  twitter = "https://twitter.com/yourusername"
+  github   = "https://github.com/tUrInG1uRKSS"
   linkedin = "https://www.linkedin.com/in/leandrollontopllh/"
-  email = "m.leandro.ll.herrera@gmail.com"
-  # ... other params ...
+  # twitter  = "https://twitter.com/yourusername"   # Remove if unused
+  email    = "m.leandro.ll.herrera@gmail.com"
+
+  # Extra links (optional)
+  # personal_website = "https://yourdomain.com"
+  # scholar = "https://scholar.google.com/..."
+  # instagram = "https://instagram.com/..."
+  cv = "/files/LeandroLlontopCV.pdf"

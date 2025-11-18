@@ -1,0 +1,61 @@
+[[projects]]
+  name = "Rover Autónomo Rocker-Bogie para Agricultura"
+  description = "Diseño y simulación de un rover autónomo con suspensión Rocker-Bogie para mejorar la movilidad en terrenos agrícolas irregulares."
+  period = "2024 – 2025"
+  link = "" 
+  technologies = ["MATLAB/Simulink", "SolidWorks", "ANSYS", "Gazebo", "ROS2", "Python", "C++"]
+  details = [
+    "Diseñé la estructura mecánica en SolidWorks y realicé análisis FEA con ANSYS.",
+    "Simulé comportamiento dinámico en MATLAB/Simulink para optimizar tracción y estabilidad.",
+    "Implementé percepción con cámara estéreo y detección de obstáculos en Gazebo.",
+    "Integré control embebido de motores usando ESP32 y drivers TB6612FNG."
+  ]
+
+[[projects]]
+  name = "Simulación de Brazo Robótico 2DOF con Cinemática Inversa"
+  description = "Simulación completa de un brazo robótico de 2 articulaciones con cinemática directa e inversa, animación y manejo de singularidades."
+  period = "2024"
+  link = "" 
+  technologies = ["MATLAB", "Python", "Cinemática"]
+  details = [
+    "Calculé cinemática inversa cerrada y validé las soluciones (0, 1 o 2 posibles).",
+    "Generé animación de trayectorias en tiempo real.",
+    "Implementé resolutores de cinemática directa e inversa desde cero."
+  ]
+
+[[projects]]
+  name = "Sistema de Prevención de Accidentes en Puntos Ciegos"
+  description = "Simulación de vehículo con cámara estéreo para detectar peatones y frenar automáticamente, inspirado en Subaru EyeSight."
+  period = "2024"
+  link = "" 
+  technologies = ["Gazebo", "Python", "OpenCV", "ROS2"]
+  details = [
+    "Monté una cámara estéreo virtual en un vehículo simulado en Gazebo.",
+    "Desarrollé algoritmos de detección de personas con OpenCV.",
+    "Implementé frenado automático basado en percepción en tiempo real."
+  ]
+
+[[projects]]
+  name = "Control de Motores y Sensores con ESP32"
+  description = "Implementación embebida de control de motores DC con retroalimentación de encoders y adquisición SPI de sensores sin librerías externas."
+  period = "2023 – 2024"
+  link = ""
+  technologies = ["ESP32", "Embedded C", "SPI", "Python"]
+  details = [
+    "Implementé interrupciones de encoder para medición precisa de posición.",
+    "Controlé motores DC con drivers TB6612FNG usando lógica PWM propia.",
+    "Interfacé sensor MAX31865 vía SPI para lectura de temperatura.",
+    "Desarrollé rutinas embebidas robustas sin depender de librerías Arduino."
+  ]
+
+[[projects]]
+  name = "Control del Oscilador Van der Pol"
+  description = "Diseño e implementación de estrategias de control para el oscilador no lineal Van der Pol en un curso de Control Digital."
+  period = "2023"
+  link = ""
+  technologies = ["MATLAB", "Teoría de Control"]
+  details = [
+    "Analicé dinámica no lineal y condiciones de estabilidad.",
+    "Implementé estrategias de control discretizado en MATLAB.",
+    "Presenté resultados al profesor por desempeño destacado."
+  ]

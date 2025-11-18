@@ -1,51 +1,108 @@
 baseURL = 'https://turing1urkss.github.io/mypage/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Leandro Llontop' # develeoper
 theme = "hugo-noir"
+
+# URL handling
+relativeURLs = true
+canonifyURLs = true
+
+# Taxonomy configuration
+[taxonomies]
+  category = "categories"
+  tag = "tags"
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true # Recommended for clearer URLs like /en/blog, /es/blog
 
 [languages]
+
   [languages.en]
     languageName = "English"
-    title = "Your Site Title (English)"
+    title = "LeandroEN"
     weight = 1
-    contentDir = "content/en" # Ensure you have this directory
+    contentDir = "content/en"
     [languages.en.menu]
       [[languages.en.menu.main]]
         name = "About"
         pageRef = "/about"
         weight = 1
-      # ... other English menu items
+      [[languages.en.menu.main]]
+        name = "Experience"
+        pageRef = "/experience"
+        weight = 2
+      [[languages.en.menu.main]]
+        name = "Projects"
+        pageRef = "/projects"
+        weight = 3
+      [[languages.en.menu.main]]
+        name = "Blog"
+        pageRef = "/blogs"
+        weight = 4
+      [[languages.en.menu.main]]
+        name = "Contact"
+        pageRef = "/contact"
+        weight = 5
+
   [languages.es]
     languageName = "Español"
-    title = "Your Site Title (Spanish)"
+    title = "LeandroES"
     weight = 2
-    contentDir = "content/es" # Ensure you have this directory
+    contentDir = "content/es"
     [languages.es.menu]
       [[languages.es.menu.main]]
-        name = "Sobre Mí" # Translated name
-        pageRef = "/about" # pageRef should ideally point to the same logical page
-        weight = 1
-      # ... other Spanish menu items
-  [languages.fr]
-    languageName = "Français"
-    title = "Your Site Title (French)"
-    weight = 3
-    contentDir = "content/fr" # Ensure you have this directory
-    [languages.fr.menu]
-      [[languages.fr.menu.main]]
-        name = "À Propos" # Translated name
+        name = "Sobre Mí"
         pageRef = "/about"
         weight = 1
-      # ... other French menu items
+      [[languages.es.menu.main]]
+        name = "Experiencia"
+        pageRef = "/experience"
+        weight = 2
+      [[languages.es.menu.main]]
+        name = "Proyectos"
+        pageRef = "/projects"
+        weight = 3
+      [[languages.es.menu.main]]
+        name = "Blog"
+        pageRef = "/blogs"
+        weight = 4
+      [[languages.es.menu.main]]
+        name = "Contacto"
+        pageRef = "/contact"
+        weight = 5
+
+  [languages.fr]
+    languageName = "Français"
+    title = "LeandroFR"
+    weight = 3
+    contentDir = "content/fr"
+    [languages.fr.menu]
+      [[languages.fr.menu.main]]
+        name = "À Propos"
+        pageRef = "/about"
+        weight = 1
+      [[languages.fr.menu.main]]
+        name = "Expérience"
+        pageRef = "/experience"
+        weight = 2
+      [[languages.fr.menu.main]]
+        name = "Projets"
+        pageRef = "/projects"
+        weight = 3
+      [[languages.fr.menu.main]]
+        name = "Blog"
+        pageRef = "/blogs"
+        weight = 4
+      [[languages.fr.menu.main]]
+        name = "Contact"
+        pageRef = "/contact"
+        weight = 5
 
 [params]
   name = "Leandro Llontop"
   location = "Nantes, France"
   description = "Description ..."
-  # profile_image = "/images/your-profile.jpg" # Place in your site's static/images/
+  profile_image = "/images/photo1.jpeg" # Place in your site's static/images/
   # Social links
   github = "https://github.com/tUrInG1uRKSS"
   twitter = "https://twitter.com/yourusername"
