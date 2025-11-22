@@ -1,9 +1,35 @@
 [[experience]]
-  role = "Ingénieur en Robotique et Systèmes Autonomes"
-  company = "Projet Rover Autonome – UNI Pérou"
-  period = "2024 – 2025"
-  country = "Pérou / France"
-  company_link = "https://www.uni.edu.pe"
+  role = "Développeur logiciel"
+  company = "ARCEP && IMT Atlantique"
+  period = "Sept. 2025 – Présent"
+  country = "France"
+  company_link = "https://www.arcep.fr/"
+  description = "Projet interinstitutionnel entre école et autorité publique pour automatiser la collecte et structuration des tarifs télécoms."
+  responsibilities = [
+    "Conception du script de scraping et extraction de PDF/web, intégration LLM.",
+    "Prototype validé par ARCEP, base pour futures applications."
+  ]
+  technologies = ["Python", "LLM API", "Pandas", "BeautifulSoup", "Selenium", "PDFMiner", "Automatisation"]
+
+[[experience]]
+  role = "Responsable télémétrie"
+  company = "Eco Motors UNI"
+  period = "Juil. 2023 – Mai. 2025"
+  country = "Pérou - Brésil"
+  company_link = "https://www.linkedin.com/company/eco-motors-uni/"
+  description = "Conception d’un système de télémétrie d'un véhicule électrique monoplace pour la participation à la compétition Shell Eco Marathon 2024 au Brésil."
+  responsibilities = [
+    "Sélection de capteurs, conception PCB, traitement de données.",
+    "Système fonctionnel prêt pour compétition."
+  ]
+  technologies = ["ESP32", "C", "Arduino", "capteurs", "communication LoRa"]
+
+[[experience]]
+  role = "Développeur logiciel"
+  company = "ARCEP && IMT Atlantique"
+  period = "Sept. 2025 – Présent"
+  country = "France"
+  company_link = "https://www.arcep.fr/"
   responsibilities = [
     "Conception et simulation d’un rover autonome avec suspension Rocker-Bogie pour améliorer la navigation sur terrains agricoles irréguliers.",
     "Développement de simulations statique-dynamiques dans MATLAB/Simulink pour évaluer les performances de navigation.",
