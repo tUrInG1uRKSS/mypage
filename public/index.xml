@@ -9,18 +9,18 @@
     <lastBuildDate>Wed, 15 Mar 2023 10:30:00 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/mypage/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/mypage/about/</link>
+      <pubDate>Wed, 15 Mar 2023 10:30:00 +0530</pubDate>
+      <guid>http://localhost:1313/mypage/about/</guid>
+      <description>&lt;p&gt;Page content here&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>My First Post</title>
       <link>http://localhost:1313/mypage/blogs/my-first-blog/</link>
       <pubDate>Wed, 15 Mar 2023 10:30:00 +0530</pubDate>
       <guid>http://localhost:1313/mypage/blogs/my-first-blog/</guid>
       <description>&lt;p&gt;Your post content here&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/mypage/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mypage/about/</guid>
-      <description>&lt;h1 id=&#34;hola&#34;&gt;Hola&lt;/h1&gt;</description>
     </item>
     <item>
       <title></title>
