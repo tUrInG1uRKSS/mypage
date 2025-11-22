@@ -2,89 +2,89 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://turing1urkss.github.io/mypage/es/categories/</loc>
+    <loc>http://localhost:1313/mypage/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://turing1urkss.github.io/mypage/categories/"
+                href="http://localhost:1313/mypage/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://turing1urkss.github.io/mypage/fr/categories/"
+                href="http://localhost:1313/mypage/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://turing1urkss.github.io/mypage/es/categories/"
+                href="http://localhost:1313/mypage/es/categories/"
                 />
   </url><url>
-    <loc>https://turing1urkss.github.io/mypage/es/en/</loc>
+    <loc>http://localhost:1313/mypage/es/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://turing1urkss.github.io/mypage/en/"
+                href="http://localhost:1313/mypage/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://turing1urkss.github.io/mypage/fr/en/"
+                href="http://localhost:1313/mypage/fr/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://turing1urkss.github.io/mypage/es/en/"
+                href="http://localhost:1313/mypage/es/en/"
                 />
   </url><url>
-    <loc>https://turing1urkss.github.io/mypage/es/</loc>
+    <loc>http://localhost:1313/mypage/es/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://turing1urkss.github.io/mypage/"
+                href="http://localhost:1313/mypage/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://turing1urkss.github.io/mypage/fr/"
+                href="http://localhost:1313/mypage/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://turing1urkss.github.io/mypage/es/"
+                href="http://localhost:1313/mypage/es/"
                 />
   </url><url>
-    <loc>https://turing1urkss.github.io/mypage/es/tags/</loc>
+    <loc>http://localhost:1313/mypage/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://turing1urkss.github.io/mypage/tags/"
+                href="http://localhost:1313/mypage/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://turing1urkss.github.io/mypage/fr/tags/"
+                href="http://localhost:1313/mypage/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://turing1urkss.github.io/mypage/es/tags/"
+                href="http://localhost:1313/mypage/es/tags/"
                 />
   </url><url>
-    <loc>https://turing1urkss.github.io/mypage/es/true/</loc>
+    <loc>http://localhost:1313/mypage/es/true/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://turing1urkss.github.io/mypage/true/"
+                href="http://localhost:1313/mypage/true/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://turing1urkss.github.io/mypage/fr/true/"
+                href="http://localhost:1313/mypage/fr/true/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://turing1urkss.github.io/mypage/es/true/"
+                href="http://localhost:1313/mypage/es/true/"
                 />
   </url>
 </urlset>
