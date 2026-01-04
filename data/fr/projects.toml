@@ -1,4 +1,11 @@
 [[projects]]
+  title = "Modélisation Dynamique d'Hexacoptère"
+  description = "Environnement de simulation complet sous MATLAB pour la dynamique des drones. Analyse comparative entre les angles d'Euler et les Quaternions pour éviter le blocage de cardan (Gimbal Lock)."
+  tech = "MATLAB, Modélisation Physique, Animation 3D"
+  image = "/images/projects/hexacopter.png"
+  link = "https://github.com/tUrInG1uRKSS/hexacopter_modeling"
+
+[[projects]]
   name = "Rover Autonome Rocker-Bogie pour l’Agriculture"
   description = "Conception et simulation d’un rover autonome avec suspension Rocker-Bogie pour améliorer la mobilité sur terrains agricoles irréguliers."
   period = "2024 – 2025"

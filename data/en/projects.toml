@@ -1,4 +1,11 @@
 [[projects]]
+  title = "Hexacopter Dynamics Modeling"
+  description = "A complete MATLAB-based simulation environment for UAV dynamics. It performs a comparative analysis between Euler Angles and Quaternion kinematics to solve Gimbal Lock singularities."
+  tech = "MATLAB, Physics Engine, 3D Animation"
+  image = "/images/projects/hexacopter.png"
+  link = "https://github.com/tUrInG1uRKSS/hexacopter_modeling"
+
+[[projects]]
   name = "Autonomous Rocker-Bogie Rover for Agricultural Navigation"
   description = "Design and simulation of an autonomous rover with Rocker-Bogie suspension to improve traversal over uneven agricultural terrains."
   period = "2024 – 2025"

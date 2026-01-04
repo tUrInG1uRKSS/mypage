@@ -3,7 +3,7 @@
 [menu]
   [[menu.main]]
     name = "About"
-    pageRef = "/about"
+    pageRef = "/about.md"
     weight = 1
   [[menu.main]]
     name = "Experience"
