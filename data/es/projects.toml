@@ -6,6 +6,14 @@
   link = "https://github.com/tUrInG1uRKSS/hexacopter_modeling"
 
 [[projects]]
+  title = "Rover Autónomo Rocker-Bogie para Navegación Agrícola"
+  description = "Proyecto de investigación evolucionado desde un prototipo funcional. Enfocado en la optimización del sistema de suspensión de un rover agrícola autónomo mediante simulaciones numéricas estáticas y dinámicas. Publicado en MDPI Engineering Proceedings."
+  tech = "Análisis de Elementos Finitos (FEA), Dinámica Estructural, Robótica, SolidWorks, Impresión 3D (PLA), Raspberry Pi Pico W, ESP32-CAM, Python (OpenCV/YOLOv3), Sensores Ultrasónicos, Motores DC con Drivers L298N"
+  image = "/images/projects/rover.png"
+  link = "https://www.mdpi.com/2673-4591/83/1/20"
+  youtube = "https://www.youtube.com/shorts/fh6x9u38Ygo"
+
+[[projects]]
   name = "Rover Autónomo Rocker-Bogie para Agricultura"
   description = "Diseño y simulación de un rover autónomo con suspensión Rocker-Bogie para mejorar la movilidad en terrenos agrícolas irregulares."
   period = "2024 – 2025"
