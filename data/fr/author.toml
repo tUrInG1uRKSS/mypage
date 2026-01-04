@@ -1,10 +1,7 @@
 [author]
   name = "Leandro Llontop"
   location = "Nantes, France"
-  description = """
-  Ingénieur en Mécatronique | Robotique et Systèmes Autonomes | Contrôle
-  I can quatre idiomas sprechen.
-  """
+  description = "Ingénieur en Mécatronique | Robotique et Systèmes Autonomes | Systèmes de Contrôle | I can quatre idiomas sprechen"
   
   # Image de profil — assurez-vous que le fichier existe dans /static/images/
   profile_image = "/images/photo1.jpeg"
