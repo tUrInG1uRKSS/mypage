@@ -2,6 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/mypage/fr/projects/project-a/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/mypage/projects/project-a/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/mypage/es/projects/project-a/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/mypage/fr/projects/project-a/"
+                />
+  </url><url>
     <loc>http://localhost:1313/mypage/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -51,6 +68,23 @@
                 rel="alternate"
                 hreflang="fr"
                 href="http://localhost:1313/mypage/fr/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/mypage/fr/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/mypage/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/mypage/es/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/mypage/fr/projects/"
                 />
   </url><url>
     <loc>http://localhost:1313/mypage/fr/tags/</loc>

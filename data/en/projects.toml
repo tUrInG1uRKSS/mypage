@@ -9,68 +9,34 @@
   title = "Autonomous Rocker-Bogie Rover for Agricultural Navigation"
   description = "Research project evolved from a functional prototype. Focused on optimizing the suspension system of an autonomous agricultural rover through static and dynamic numerical simulations. Published in MDPI Engineering Proceedings."
   tech = "Finite Element Analysis (FEA), Structural Dynamics, Robotics, SolidWorks, 3D Printing (PLA), Raspberry Pi Pico W, ESP32-CAM, Python (OpenCV/YOLOv3), Ultrasonic Sensors, Motors DC with Drivers L298N"
-  image = "/images/projects/rover.png"
+  image = "/images/projects/rover_compressed.jpg"
   link = "https://www.mdpi.com/2673-4591/83/1/20"
   youtube = "https://www.youtube.com/shorts/fh6x9u38Ygo"
 
 [[projects]]
-  name = "Autonomous Rocker-Bogie Rover for Agricultural Navigation"
-  description = "Design and simulation of an autonomous rover with Rocker-Bogie suspension to improve traversal over uneven agricultural terrains."
-  period = "2024 – 2025"
-  link = "" # Add GitHub or demo link here
-  technologies = ["MATLAB/Simulink", "SolidWorks", "ANSYS", "Gazebo", "ROS2", "Python", "C++"]
-  details = [
-    "Designed mechanical structure in SolidWorks and performed FEA using ANSYS.",
-    "Simulated dynamic behavior in MATLAB/Simulink to optimize traction and stability.",
-    "Implemented stereo-camera perception and obstacle detection in Gazebo.",
-    "Integrated embedded motor control using ESP32 and TB6612FNG drivers."
-  ]
+  title = "Comparative Study: Fuzzy Control vs. Neural Network Control"
+  description = "Comparative analysis of Fuzzy Logic and Neural Network control strategies applied to a first-order RC circuit. Evaluates stability, response time, and robustness against an 'expert' PI controller through MATLAB/Simulink simulations and physical LabVIEW implementation."
+  tech = "MATLAB, Simulink, LabVIEW, Fuzzy Logic (Mamdani), Neural Networks (Backpropagation), DAQ, Oscilloscope"
+  image = "/images/projects/fuzzycontrol.jpg"
+  link = "https://github.com/turing1urkss/-Fuzzy-Control-and-a-Neural-Network-Control"
 
 [[projects]]
-  name = "Robotic Arm Simulation (2DOF) with Inverse Kinematics"
-  description = "Developed a full 2DOF robotic arm simulation including direct kinematics, inverse kinematics, animations, and singularity handling."
-  period = "2024"
-  link = "" # Add if you publish it
-  technologies = ["MATLAB", "Python", "Kinematics"]
-  details = [
-    "Computed closed-form inverse kinematics with correct solution validation (0, 1, or 2 solutions).",
-    "Generated real-time animation of joint trajectories.",
-    "Implemented forward and inverse kinematic solvers from scratch."
-  ]
+  title = "Digital Control of Van der Pol Oscillator"
+  description = "Digital implementation of Feedback Linearization vs. Simple Linearization control strategies on a physically modeled Van der Pol oscillator using OpAmps and multipliers. Feedback Linearization proved superior with a 1.2s settling time and only 5% overshoot, implemented via NI DAQ and LabVIEW."
+  tech = "LabVIEW, NI DAQ, Analog Electronics (LM741, AD633), MATLAB/Simulink, Proteus, Nonlinear Control Theory"
+  image = "/images/projects/vanderpol.jpg"
+  link = "https://github.com/turing1urkss/control-of-a-van-der-pol-system"
 
 [[projects]]
-  name = "Blind-Spot Accident Prevention System Simulation"
-  description = "Simulated a car equipped with a stereo camera to detect pedestrians and automatically stop the vehicle, inspired by Subaru EyeSight."
-  period = "2024"
-  link = "" 
-  technologies = ["Gazebo", "Python", "OpenCV", "ROS2"]
-  details = [
-    "Mounted a virtual stereo-camera on a simulated vehicle in Gazebo.",
-    "Developed person detection algorithms using OpenCV.",
-    "Implemented automatic braking based on real-time perception."
-  ]
+  title = "2-DOF Robotic Manipulator for Rover"
+  description = "Design, implementation, and control of a 2-DOF planar robotic arm for search and rescue applications. Covers mechanical design in SolidWorks, electronics with Arduino/custom Shield, and decentralized dynamic control simulated in MATLAB/Simulink."
+  tech = "SolidWorks, Arduino Mega 2560, Eagle (PCB Design), 3D Printing, MATLAB, Simulink, Pololu Motors w/ Encoders, Control Theory (Lagrange)"
+  image = "/images/projects/arm2dof.jpg"
+  link = "https://github.com/turing1urkss/design-implementation-and-control-of-a-robotic-manipulator-2dof"
 
 [[projects]]
-  name = "ESP32-Based Motor Control & Sensor Integration"
-  description = "Low-level embedded implementation of DC motor control using encoder feedback and SPI sensor acquisition without external libraries."
-  period = "2023 – 2024"
-  link = ""
-  technologies = ["ESP32", "Embedded C", "SPI", "Python"]
-  details = [
-    "Implemented quadrature encoder interrupts for precise position measurement.",
-    "Controlled DC motors with TB6612FNG drivers using custom PWM logic.",
-    "Interfaced MAX31865 via SPI for temperature sensing.",
-    "Developed robust embedded routines without relying on Arduino libraries."
-  ]
-
-[[projects]]
-  name = "Van der Pol Oscillator Control"
-  description = "Designed and implemented control strategies for the nonlinear Van der Pol oscillator as part of a Digital Control course."
-  period = "2023"
-  link = ""
-  technologies = ["MATLAB", "Control Theory"]
-  details = [
-    "Analyzed nonlinear dynamics and stability conditions.",
-    "Implemented discretized control strategies in MATLAB.",
-    "Presented results to the course professor due to exceptional performance."
-  ]
+  title = "Cylindrical Robotic Manipulator (3-DOF)"
+  description = "Design, implementation, and analysis of a 3-degree-of-freedom manipulator with a cylindrical configuration (RPP). Capable of performing pick-and-place operations using an Arduino-based control system with DRV8825 drivers."
+  tech = "SolidWorks, Arduino UNO, CNC Shield V3.0, Eagle, NEMA 17 Stepper Motors, 3D Printing, MATLAB, Kinematic Analysis"
+  image = "/images/projects/cylindrical_robot.jpg"
+  link = "https://github.com/turing1urkss/design-and-implementation-of-a-cylindrical-robotic-manipulator-3dof"

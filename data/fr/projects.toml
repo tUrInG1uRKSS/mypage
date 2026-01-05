@@ -9,68 +9,34 @@
   title = "Rover Autonome Rocker-Bogie pour la Navigation Agricole"
   description = "Projet de recherche évolué à partir d'un prototype fonctionnel. Axé sur l'optimisation du système de suspension d'un rover agricole autonome via des simulations numériques statiques et dynamiques. Publié dans MDPI Engineering Proceedings."
   tech = "Analyse par Éléments Finis (FEA), Dynamique Structurelle, Robotique, SolidWorks, Impression 3D (PLA), Raspberry Pi Pico W, ESP32-CAM, Python (OpenCV/YOLOv3), Capteurs Ultrasons, Moteurs CC avec Drivers L298N"
-  image = "/images/projects/rover.png"
+  image = "/images/projects/rover_compressed.jpg"
   link = "https://www.mdpi.com/2673-4591/83/1/20"
   youtube = "https://www.youtube.com/shorts/fh6x9u38Ygo"
 
 [[projects]]
-  name = "Rover Autonome Rocker-Bogie pour l’Agriculture"
-  description = "Conception et simulation d’un rover autonome avec suspension Rocker-Bogie pour améliorer la mobilité sur terrains agricoles irréguliers."
-  period = "2024 – 2025"
-  link = "" 
-  technologies = ["MATLAB/Simulink", "SolidWorks", "ANSYS", "Gazebo", "ROS2", "Python", "C++"]
-  details = [
-    "Conception mécanique dans SolidWorks et analyse FEA avec ANSYS.",
-    "Simulation dynamique dans MATLAB/Simulink pour optimiser traction et stabilité.",
-    "Implémentation de perception stéréo et détection d’obstacles dans Gazebo.",
-    "Intégration du contrôle moteur embarqué avec ESP32 et drivers TB6612FNG."
-  ]
+  title = "Étude Comparative : Contrôle Flou vs Réseaux de Neurones"
+  description = "Analyse comparative des stratégies de contrôle par Logique Floue et Réseaux de Neurones appliquées à un circuit RC de premier ordre. Évaluation de la stabilité, du temps de réponse et de la robustesse face à un contrôleur PI 'expert' via des simulations MATLAB/Simulink et une implémentation LabVIEW."
+  tech = "MATLAB, Simulink, LabVIEW, Logique Floue (Mamdani), Réseaux de Neurones (Rétropropagation), DAQ, Oscilloscope"
+  image = "/images/projects/fuzzycontrol.jpg"
+  link = "https://github.com/turing1urkss/-Fuzzy-Control-and-a-Neural-Network-Control"
 
 [[projects]]
-  name = "Simulation d’un Bras Robotique 2DOF avec Cinématique Inverse"
-  description = "Simulation complète d’un bras robotique à 2 articulations avec cinématique directe et inverse, animation et gestion des singularités."
-  period = "2024"
-  link = "" 
-  technologies = ["MATLAB", "Python", "Cinématique"]
-  details = [
-    "Calcul de la cinématique inverse avec validation des solutions (0, 1 ou 2 solutions).",
-    "Animation en temps réel des trajectoires articulaires.",
-    "Implémentation de solveurs cinématique directe et inverse depuis zéro."
-  ]
+  title = "Contrôle Numérique de l'Oscillateur Van der Pol"
+  description = "Mise en œuvre numérique des stratégies de contrôle par Linéarisation par Retour d'État et Linéarisation Simple sur un oscillateur Van der Pol modélisé physiquement. La Linéarisation par Retour d'État s'est avérée supérieure (temps d'établissement de 1,2s), implémentée via NI DAQ et LabVIEW."
+  tech = "LabVIEW, NI DAQ, Électronique Analogique (LM741, AD633), MATLAB/Simulink, Proteus, Théorie du Contrôle Non Linéaire"
+  image = "/images/projects/vanderpol.jpg"
+  link = "https://github.com/turing1urkss/control-of-a-van-der-pol-system"
 
 [[projects]]
-  name = "Système de Prévention d’Accidents aux Angles Morts"
-  description = "Simulation d’un véhicule avec caméra stéréo pour détecter piétons et freiner automatiquement, inspiré du système Subaru EyeSight."
-  period = "2024"
-  link = "" 
-  technologies = ["Gazebo", "Python", "OpenCV", "ROS2"]
-  details = [
-    "Montage d’une caméra stéréo virtuelle sur un véhicule simulé dans Gazebo.",
-    "Développement d’algorithmes de détection de personnes avec OpenCV.",
-    "Mise en place du freinage automatique basé sur la perception en temps réel."
-  ]
+  title = "Manipulateur Robotique à 2 DDL pour Rover"
+  description = "Conception, mise en œuvre et contrôle d'un bras robotique planaire à 2 degrés de liberté pour des applications de recherche et de sauvetage. Couvre la conception mécanique sous SolidWorks, l'électronique avec Arduino/Shield personnalisé, et le contrôle dynamique décentralisé simulé sous MATLAB/Simulink."
+  tech = "SolidWorks, Arduino Mega 2560, Eagle (Conception PCB), Impression 3D, MATLAB, Simulink, Moteurs Pololu avec Encodeurs, Théorie du Contrôle (Lagrange)"
+  image = "/images/projects/arm2dof.jpg"
+  link = "https://github.com/turing1urkss/design-implementation-and-control-of-a-robotic-manipulator-2dof"
 
 [[projects]]
-  name = "Contrôle de Moteurs et Capteurs avec ESP32"
-  description = "Implémentation embarquée du contrôle de moteurs DC avec retour d’encodeurs et acquisition SPI des capteurs sans bibliothèques externes."
-  period = "2023 – 2024"
-  link = ""
-  technologies = ["ESP32", "Embedded C", "SPI", "Python"]
-  details = [
-    "Implémentation d’interruptions d’encodeurs pour mesure précise de position.",
-    "Contrôle de moteurs DC avec drivers TB6612FNG via PWM personnalisé.",
-    "Interface avec capteur MAX31865 via SPI pour mesure de température.",
-    "Développement de routines embarquées robustes sans dépendre d’Arduino."
-  ]
-
-[[projects]]
-  name = "Contrôle de l’Oscillateur de Van der Pol"
-  description = "Conception et mise en œuvre de stratégies de contrôle pour l’oscillateur non-linéaire de Van der Pol dans le cadre du cours de Contrôle Numérique."
-  period = "2023"
-  link = ""
-  technologies = ["MATLAB", "Théorie du Contrôle"]
-  details = [
-    "Analyse de la dynamique non-linéaire et des conditions de stabilité.",
-    "Implémentation de stratégies de contrôle discrétisées dans MATLAB.",
-    "Présentation des résultats au professeur pour performance exceptionnelle."
-  ]
+  title = "Manipulateur Robotique Cylindrique (3 DDL)"
+  description = "Conception, mise en œuvre et analyse d'un manipulateur à 3 degrés de liberté à configuration cylindrique (RPP). Capable d'effectuer des opérations de 'pick-and-place' grâce à un système de contrôle basé sur Arduino et des pilotes DRV8825."
+  tech = "SolidWorks, Arduino UNO, CNC Shield V3.0, Eagle, Moteurs Pas à Pas NEMA 17, Impression 3D, MATLAB, Analyse Cinématique"
+  image = "/images/projects/cylindrical_robot.jpg"
+  link = "https://github.com/turing1urkss/design-and-implementation-of-a-cylindrical-robotic-manipulator-3dof"

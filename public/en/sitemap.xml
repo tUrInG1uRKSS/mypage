@@ -75,6 +75,21 @@
     <lastmod>2023-03-15T10:30:00+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/mypage/projects/project-a/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/mypage/es/projects/project-a/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/mypage/fr/projects/project-a/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/mypage/projects/project-a/"
+                />
   </url><url>
     <loc>http://localhost:1313/mypage/en/</loc>
     <xhtml:link
@@ -94,6 +109,21 @@
                 />
   </url><url>
     <loc>http://localhost:1313/mypage/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/mypage/es/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/mypage/fr/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/mypage/projects/"
+                />
   </url><url>
     <loc>http://localhost:1313/mypage/true/</loc>
     <xhtml:link

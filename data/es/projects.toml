@@ -9,68 +9,38 @@
   title = "Rover Autónomo Rocker-Bogie para Navegación Agrícola"
   description = "Proyecto de investigación evolucionado desde un prototipo funcional. Enfocado en la optimización del sistema de suspensión de un rover agrícola autónomo mediante simulaciones numéricas estáticas y dinámicas. Publicado en MDPI Engineering Proceedings."
   tech = "Análisis de Elementos Finitos (FEA), Dinámica Estructural, Robótica, SolidWorks, Impresión 3D (PLA), Raspberry Pi Pico W, ESP32-CAM, Python (OpenCV/YOLOv3), Sensores Ultrasónicos, Motores DC con Drivers L298N"
-  image = "/images/projects/rover.png"
+  image = "/images/projects/rover_compressed.jpg"
   link = "https://www.mdpi.com/2673-4591/83/1/20"
   youtube = "https://www.youtube.com/shorts/fh6x9u38Ygo"
 
 [[projects]]
-  name = "Rover Autónomo Rocker-Bogie para Agricultura"
-  description = "Diseño y simulación de un rover autónomo con suspensión Rocker-Bogie para mejorar la movilidad en terrenos agrícolas irregulares."
-  period = "2024 – 2025"
-  link = "" 
-  technologies = ["MATLAB/Simulink", "SolidWorks", "ANSYS", "Gazebo", "ROS2", "Python", "C++"]
-  details = [
-    "Diseñé la estructura mecánica en SolidWorks y realicé análisis FEA con ANSYS.",
-    "Simulé comportamiento dinámico en MATLAB/Simulink para optimizar tracción y estabilidad.",
-    "Implementé percepción con cámara estéreo y detección de obstáculos en Gazebo.",
-    "Integré control embebido de motores usando ESP32 y drivers TB6612FNG."
-  ]
+  title = "Estudio Comparativo: Control Difuso vs. Redes Neuronales"
+  description = "Análisis comparativo de estrategias de control por Lógica Difusa y Redes Neuronales aplicadas a un circuito RC de primer orden. Se evalúa la estabilidad, tiempo de respuesta y robustez frente a un controlador PI 'experto' mediante simulaciones numéricas e implementación física."
+  tech = "MATLAB, Simulink, LabVIEW, Lógica Difusa (Mamdani), Redes Neuronales (Backpropagation), DAQ, Osciloscopio"
+  # Te sugiero usar la 'Figura 19' del PDF (comparación de respuestas) como imagen
+  image = "/images/projects/fuzzycontrol.jpg"
+  link = "https://github.com/turing1urkss/-Fuzzy-Control-and-a-Neural-Network-Control"
 
 [[projects]]
-  name = "Simulación de Brazo Robótico 2DOF con Cinemática Inversa"
-  description = "Simulación completa de un brazo robótico de 2 articulaciones con cinemática directa e inversa, animación y manejo de singularidades."
-  period = "2024"
-  link = "" 
-  technologies = ["MATLAB", "Python", "Cinemática"]
-  details = [
-    "Calculé cinemática inversa cerrada y validé las soluciones (0, 1 o 2 posibles).",
-    "Generé animación de trayectorias en tiempo real.",
-    "Implementé resolutores de cinemática directa e inversa desde cero."
-  ]
+  title = "Control Digital del Oscilador Van der Pol"
+  description = "Implementación digital de estrategias de control (Linealización por Realimentación vs. Linealización Simple) en un oscilador de Van der Pol implementado físicamente con OpAmps y multiplicadores. El control por Realimentación demostró ser superior con un tiempo de establecimiento de 1.2s y solo 5% de sobrepaso."
+  tech = "LabVIEW, NI DAQ, Electrónica Analógica (LM741, AD633), MATLAB/Simulink, Proteus, Teoría de Control No Lineal"
+  image = "/images/projects/vanderpol.jpg"
+  link = "https://github.com/turing1urkss/control-of-a-van-der-pol-system"
 
 [[projects]]
-  name = "Sistema de Prevención de Accidentes en Puntos Ciegos"
-  description = "Simulación de vehículo con cámara estéreo para detectar peatones y frenar automáticamente, inspirado en Subaru EyeSight."
-  period = "2024"
-  link = "" 
-  technologies = ["Gazebo", "Python", "OpenCV", "ROS2"]
-  details = [
-    "Monté una cámara estéreo virtual en un vehículo simulado en Gazebo.",
-    "Desarrollé algoritmos de detección de personas con OpenCV.",
-    "Implementé frenado automático basado en percepción en tiempo real."
-  ]
+  title = "Manipulador Robótico de 2 GDL para Rover"
+  description = "Diseño, implementación y control de un brazo robótico planar de 2 grados de libertad para aplicaciones de búsqueda y rescate. Abarca el diseño mecánico en SolidWorks, electrónica con Arduino/Shield personalizado, y control dinámico descentralizado simulado en MATLAB/Simulink."
+  tech = "SolidWorks, Arduino Mega 2560, Eagle (PCB Design), Impresión 3D, MATLAB, Simulink, Motores Pololu con Encoders, Teoría de Control (Lagrange)"
+  # Sugerencia: Usa una foto del ensamblaje final (del Reporte 2) o el render CAD (del Reporte 1)
+  image = "/images/projects/arm2dof.jpg"
+  link = "https://github.com/turing1urkss/design-implementation-and-control-of-a-robotic-manipulator-2dof"
 
 [[projects]]
-  name = "Control de Motores y Sensores con ESP32"
-  description = "Implementación embebida de control de motores DC con retroalimentación de encoders y adquisición SPI de sensores sin librerías externas."
-  period = "2023 – 2024"
-  link = ""
-  technologies = ["ESP32", "Embedded C", "SPI", "Python"]
-  details = [
-    "Implementé interrupciones de encoder para medición precisa de posición.",
-    "Controlé motores DC con drivers TB6612FNG usando lógica PWM propia.",
-    "Interfacé sensor MAX31865 vía SPI para lectura de temperatura.",
-    "Desarrollé rutinas embebidas robustas sin depender de librerías Arduino."
-  ]
+  title = "Manipulador Robótico Cilíndrico (3 GDL)"
+  description = "Diseño, implementación y análisis de un robot manipulador de 3 grados de libertad con configuración cilíndrica (RPP). Capaz de realizar operaciones 'pick-and-place' mediante un sistema de control basado en Arduino y drivers DRV8825."
+  tech = "SolidWorks, Arduino UNO, CNC Shield V3.0, Eagle, Motores Paso a Paso NEMA 17, Impresión 3D, MATLAB, Análisis Cinemático"
+  # Sugerencia: Usa una foto del robot construido (del Informe T2) o el render CAD (del Informe T1)
+  image = "/images/projects/cylindrical_robot.jpg"
+  link = "https://github.com/turing1urkss/design-and-implementation-of-a-cylindrical-robotic-manipulator-3dof"
 
-[[projects]]
-  name = "Control del Oscilador Van der Pol"
-  description = "Diseño e implementación de estrategias de control para el oscilador no lineal Van der Pol en un curso de Control Digital."
-  period = "2023"
-  link = ""
-  technologies = ["MATLAB", "Teoría de Control"]
-  details = [
-    "Analicé dinámica no lineal y condiciones de estabilidad.",
-    "Implementé estrategias de control discretizado en MATLAB.",
-    "Presenté resultados al profesor por desempeño destacado."
-  ]
