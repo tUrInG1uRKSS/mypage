@@ -17,3 +17,83 @@
   # scholar = "https://scholar.google.com/..."
   # instagram = "https://instagram.com/..."
   cv = "/files/LeandroLlontopCV.pdf"
+
+  # --- Honors & Awards ---
+[[honors]]
+  institution = "Embajada de Francia en Perú & UNI"
+  title = "Beca de Excelencia Alberto Benavides de la Quintana"
+  date = "Jul 2025 - Jul 2026"
+
+[[honors]]
+  institution = "Hochschule Furtwangen University (Alemania)"
+  title = "Beca Baden-Württemberg-STIPENDIUM"
+  date = "Oct 2024 - Feb 2025"
+
+[[honors]]
+  institution = "Universidad Nacional de Ingeniería (UNI)"
+  title = "Diploma de Honor al Mérito Académico (Tercio Superior)"
+  date = "Mar 2024"
+
+# --- Certifications ---
+[[certifications]]
+  title = "Alemán - Nivel A2 (Intercambio HFU)"
+  date = "2025"
+  url = "https://www.linkedin.com/posts/leandrollontopllh_mechatronics-physics-biomedicalengineering-activity-7317668021546733568-ll0k?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4-KhABiyIf0MivydXN2jUmlck0cG5QKD8" 
+
+[[certifications]]
+  title = "Francés - Nivel B2 (Alianza Francesa & IMT)"
+  date = "2024"
+  url = "https://www.linkedin.com/in/leandrollontopllh/details/certifications/"
+
+[[certifications]]
+  title = "Inglés Fluido (Cambridge First Certificate)"
+  date = "2016 - Presente"
+  url = "https://www.linkedin.com/in/leandrollontopllh/details/certifications/"
+
+[[certifications]]
+  title = "Formación Técnica: ROS, ML, Big Data, SolidWorks, etc."
+  date = "2023 - 2025"
+  url = "https://www.linkedin.com/in/leandrollontopllh/details/certifications/"
+
+# --- Voluntary Work ---
+[[voluntary]]
+  role = "Presidente"
+  organization = "CAMI (Control Automático y Mecatrónica Inteligente)"
+  period = "Sept 2023 - Sept 2024"
+  description = "Liderazgo del grupo de investigación, coordinación de proyectos de robótica y organización de talleres."
+  url = "https://www.linkedin.com/company/cami-uni/posts/?feedView=all"
+
+[[voluntary]]
+  role = "Asistente Técnico Voluntario"
+  organization = "MakeX Robotics Competition (Engitronic)"
+  period = "Oct 2023"
+  description = "Supervisión técnica y apoyo logístico en la competencia latinoamericana de robótica educativa."
+  url = "https://www.engitronicperu.com/makex-robotics-competition/"
+
+[[voluntary]]
+  role = "Expositor - Divulgación Científica"
+  organization = "DRSDS - UNI (Feria de Proyectos)"
+  period = "Jun 2024"
+  description = "Presentación de vehículo eléctrico y difusión de tecnología sostenible al público general."
+  url = "https://www.linkedin.com/in/leandrollontopllh/details/volunteering-experiences/"
+
+[[voluntary]]
+  role = "Operador Informático"
+  organization = "PRONABEC (Beca 18)"
+  period = "May 2024 - Jun 2024"
+  description = "Apoyo logístico e informático en la toma del examen nacional de becas."
+  url = "http://www.gob.pe/pronabec"
+
+[[voluntary]]
+  role = "Colaborador de Intercambio Cultural"
+  organization = "Penn State University & UNI"
+  period = "May 2024"
+  description = "Asistencia y guía para estudiantes estadounidenses en intercambio, facilitando la comunicación intercultural."
+  url = "https://www.linkedin.com/in/leandrollontopllh/details/volunteering-experiences/"
+
+[[voluntary]]
+  role = "Voluntario CAS (Creatividad, Actividad y Servicio)"
+  organization = "Bachillerato Internacional (COAR Amazonas)"
+  period = "2017 - 2018"
+  description = "Ejecución de proyectos de servicio social, reciclaje y preservación cultural en la comunidad."
+  # url = "#"

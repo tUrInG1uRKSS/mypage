@@ -17,3 +17,83 @@
   # scholar = "https://scholar.google.com/..."
   # instagram = "https://instagram.com/..."
   cv = "/files/LeandroLlontopCV.pdf"
+
+  # --- Honors & Awards ---
+[[honors]]
+  institution = "Embassy of France in Peru & UNI"
+  title = "Alberto Benavides de la Quintana Scholarship"
+  date = "Jul 2025 - Jul 2026"
+
+[[honors]]
+  institution = "Hochschule Furtwangen University (Germany)"
+  title = "Baden-Württemberg-STIPENDIUM (Excellence Scholarship)"
+  date = "Oct 2024 - Feb 2025"
+
+[[honors]]
+  institution = "Universidad Nacional de Ingeniería (UNI)"
+  title = "Academic Excellence Award (Top 3rd GPA)"
+  date = "Mar 2024"
+
+# --- Certifications ---
+[[certifications]]
+  title = "German Language - Level A2"
+  date = "2025"
+  url = "https://www.linkedin.com/posts/leandrollontopllh_mechatronics-physics-biomedicalengineering-activity-7317668021546733568-ll0k?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4-KhABiyIf0MivydXN2jUmlck0cG5QKD8"
+
+[[certifications]]
+  title = "French Language - Level B2"
+  date = "2024"
+  url = "https://www.linkedin.com/in/leandrollontopllh/details/certifications/"
+
+[[certifications]]
+  title = "Cambridge First Certificate in English (FCE)"
+  date = "2016 - Present"
+  url = "https://www.linkedin.com/in/leandrollontopllh/details/certifications/"
+
+[[certifications]]
+  title = "Technical Training: ROS, ML, Big Data, Solidworks, etc."
+  date = "2023 - 2025"
+  url = "https://www.linkedin.com/in/leandrollontopllh/details/certifications/"
+
+# --- Voluntary Work ---
+[[voluntary]]
+  role = "President"
+  organization = "CAMI (Automation & Intelligent Mechatronics)"
+  period = "Sept 2023 - Sept 2024"
+  description = "Led the research group, coordinated robotics projects, and organized workshops to promote robotics."
+  url = "https://www.linkedin.com/company/cami-uni/posts/?feedView=all"
+
+[[voluntary]]
+  role = "Volunteer Technical Assistant"
+  organization = "MakeX Robotics Competition (Engitronic)"
+  period = "Oct 2023"
+  description = "Provided technical supervision and logistical support for the Latin American educational robotics competition."
+  url = "https://www.engitronicperu.com/makex-robotics-competition/"
+
+[[voluntary]]
+  role = "Exhibitor - Scientific Outreach"
+  organization = "DRSDS - UNI (Science Fair)"
+  period = "Jun 2024"
+  description = "Presented an electric vehicle prototype and promoted sustainable technology to the general public."
+  url = "https://www.linkedin.com/in/leandrollontopllh/details/volunteering-experiences/"
+
+[[voluntary]]
+  role = "IT Operator"
+  organization = "PRONABEC (National Scholarship Program)"
+  period = "May 2024 - Jun 2024"
+  description = "Provided IT and logistical support for the national scholarship examination process."
+  url = "https://www.gob.pe/pronabec"
+
+[[voluntary]]
+  role = "Cultural Exchange Collaborator"
+  organization = "Penn State University & UNI"
+  period = "May 2024"
+  description = "Assisted visiting American students, facilitating cross-cultural communication and activities."
+  url = "https://www.linkedin.com/in/leandrollontopllh/details/volunteering-experiences/"
+
+[[voluntary]]
+  role = "CAS Volunteer (Creativity, Activity, Service)"
+  organization = "International Baccalaureate (COAR Amazonas)"
+  period = "2017 - 2018"
+  description = "Executed community service projects, recycling initiatives, and cultural preservation activities."
+  # url = "#"

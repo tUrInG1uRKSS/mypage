@@ -6,14 +6,14 @@
     <description>Recent content on LeandroEN</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Mar 2023 10:30:00 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/mypage/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
       <link>http://localhost:1313/mypage/about/</link>
-      <pubDate>Wed, 15 Mar 2023 10:30:00 +0530</pubDate>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/mypage/about/</guid>
-      <description>&lt;p&gt;Page content here&amp;hellip;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hello! I am &lt;strong&gt;Leandro Llontop Herrera&lt;/strong&gt;, a Mechatronics Engineer and Robotics enthusiast driven by the control of complex systems and mechatronic integration.&lt;/p&gt;&#xA;&lt;p&gt;I am currently pursuing a Master&amp;rsquo;s in &lt;strong&gt;Robotics, Automation &amp;amp; Embedded Systems&lt;/strong&gt; at &lt;strong&gt;IMT Atlantique&lt;/strong&gt; in Nantes, France. My academic journey spans across Peru, Germany, and France, giving me a unique international perspective and a versatile problem-solving approach.&lt;/p&gt;&#xA;&lt;h3 id=&#34;what-drives-me&#34;&gt;What Drives Me?&lt;/h3&gt;&#xA;&lt;p&gt;I seek to contribute to innovative projects that combine control, perception, and will change the world.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
@@ -21,6 +21,13 @@
       <pubDate>Wed, 15 Mar 2023 10:30:00 +0530</pubDate>
       <guid>http://localhost:1313/mypage/blogs/my-first-blog/</guid>
       <description>&lt;p&gt;Your post content here&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/mypage/experience/experience-a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mypage/experience/experience-a/</guid>
+      <description></description>
     </item>
     <item>
       <title></title>

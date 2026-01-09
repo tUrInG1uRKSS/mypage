@@ -3,7 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/mypage/about/</loc>
-    <lastmod>2023-03-15T10:30:00+05:30</lastmod>
+    <lastmod>2026-01-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/mypage/es/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/mypage/fr/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/mypage/about/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/mypage/</loc>
+    <lastmod>2026-01-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/mypage/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/mypage/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/mypage/"
+                />
   </url><url>
     <loc>http://localhost:1313/mypage/blogs/</loc>
     <lastmod>2023-03-15T10:30:00+05:30</lastmod>
@@ -28,24 +61,6 @@
   </url><url>
     <loc>http://localhost:1313/mypage/tags/hugo/</loc>
     <lastmod>2023-03-15T10:30:00+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/mypage/</loc>
-    <lastmod>2023-03-15T10:30:00+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/mypage/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/mypage/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/mypage/"
-                />
   </url><url>
     <loc>http://localhost:1313/mypage/blogs/my-first-blog/</loc>
     <lastmod>2023-03-15T10:30:00+05:30</lastmod>
@@ -73,6 +88,23 @@
   </url><url>
     <loc>http://localhost:1313/mypage/tags/web-development/</loc>
     <lastmod>2023-03-15T10:30:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mypage/experience/experience-a/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/mypage/es/experience/experience-a/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/mypage/fr/experience/experience-a/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/mypage/experience/experience-a/"
+                />
   </url><url>
     <loc>http://localhost:1313/mypage/projects/project-a/</loc>
     <xhtml:link
@@ -106,6 +138,23 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/mypage/en/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/mypage/experience/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/mypage/es/experience/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/mypage/fr/experience/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/mypage/experience/"
                 />
   </url><url>
     <loc>http://localhost:1313/mypage/projects/</loc>

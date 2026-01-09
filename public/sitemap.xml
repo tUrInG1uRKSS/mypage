@@ -4,17 +4,21 @@
   <sitemap>
     <loc>http://localhost:1313/mypage/en/sitemap.xml</loc>
     
-      <lastmod>2023-03-15T10:30:00+05:30</lastmod>
+      <lastmod>2026-01-09T00:00:00+00:00</lastmod>
     
   </sitemap>
   
   <sitemap>
     <loc>http://localhost:1313/mypage/es/sitemap.xml</loc>
     
+      <lastmod>2026-01-09T00:00:00+00:00</lastmod>
+    
   </sitemap>
   
   <sitemap>
     <loc>http://localhost:1313/mypage/fr/sitemap.xml</loc>
+    
+      <lastmod>2026-01-09T00:00:00+00:00</lastmod>
     
   </sitemap>
   
