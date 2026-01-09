@@ -4,19 +4,17 @@
   description = "Mechatronics Engineer | Robotics & Autonomous Systems | Control Systems | I can quatre idiomas sprechen"
   
   # Profile image — make sure the file exists in /static/images/
-  profile_image = "/images/photo1.jpeg"
+  profile_image = "/images/profile.jpeg"
 
   # Social links
-  github   = "https://github.com/tUrInG1uRKSS"
-  linkedin = "https://www.linkedin.com/in/leandrollontopllh/"
-  # twitter  = "https://twitter.com/yourusername"   # Remove if unused
   email    = "m.leandro.ll.herrera@gmail.com"
-
-  # Extra links (optional)
-  # personal_website = "https://yourdomain.com"
-  # scholar = "https://scholar.google.com/..."
-  # instagram = "https://instagram.com/..."
-  cv = "/files/LeandroLlontopCV.pdf"
+  discord = "algorithm6174_23585"
+  github   = "https://github.com/tUrInG1uRKSS"
+  github_username = "tUrInG1uRKSS"
+  # twitter = "https://www.twitter.com/johndoe123"
+  # twitter_username = "johndoe123"
+  linkedin = "https://www.linkedin.com/in/leandrollontopllh/"
+  linkedin_username = "leandrollontopllh"
 
   # --- Honors & Awards ---
 [[honors]]
@@ -96,4 +94,3 @@
   organization = "International Baccalaureate (COAR Amazonas)"
   period = "2017 - 2018"
   description = "Executed community service projects, recycling initiatives, and cultural preservation activities."
-  # url = "#"

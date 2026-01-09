@@ -23,3 +23,56 @@ responsibilities = [
   "Fully functional system ready for competition."
 ]
 technologies = ["ESP32", "C", "Arduino", "Sensors", "LoRa communication"]
+
+
+[[experience]]
+  company = "IMT Atlantique"
+  role = "MSc in Robotics & Embedded Systems"
+  period = "2025 - 2027"
+  country = "France"
+  company_link = "https://www.imt-atlantique.fr/en"
+  description = "Double Degree. Major in Robotics and Interactions. Focus on mobile robotics, path planning, and applied AI."
+  responsibilities = [
+      "Developing navigation algorithms using ROS 2.",
+      "IMT-ARCEP Project: Automated data extraction using LLMs.",
+      "Active member of the university Football & Futsal team."
+  ]
+
+[[experience]]
+  company = "Hochschule Furtwangen"
+  role = "Academic Exchange - International Engineering"
+  period = "Sept 2024 - Feb 2025"
+  country = "Germany"
+  company_link = "https://www.hs-furtwangen.de/"
+  description = "Exchange semester awarded with the Baden-Württemberg-STIPENDIUM. Focus on advanced control and autonomous systems."
+  responsibilities = [
+      "Research project in wind tunnel laboratory.",
+      "Intensive German language course (A2 Level).",
+      "Advanced Control Theory coursework."
+  ]
+
+[[experience]]
+  company = "National University of Engineering (UNI)"
+  role = "B.Sc. in Mechatronics Engineering"
+  period = "2020 - 2025"
+  country = "Peru"
+  company_link = "https://portal.uni.edu.pe/"
+  description = "Rigorous training in nonlinear control, embedded systems, and industrial automation. Top 10% of the class."
+  responsibilities = [
+      "Telemetry Lead at Eco Motors UNI (Shell Eco Marathon).",
+      "President of CAMI Robotics Research Group.",
+      "Thesis: Autonomous Rover with Rocker-Bogie suspension."
+  ]
+
+[[experience]]
+  company = "COAR Amazonas"
+  role = "International Baccalaureate (IB) Diploma"
+  period = "2016 - 2018"
+  country = "Peru"
+  company_link = "https://www.minedu.gob.pe/colegios-de-alto-rendimiento/"
+  description = "High-performance education program focused on critical thinking and research."
+  responsibilities = [
+      "Extended Essay research in Physics.",
+      "CAS (Creativity, Activity, Service) community projects.",
+      "Advanced bilingual certification."
+  ]

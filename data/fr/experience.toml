@@ -23,3 +23,56 @@
     "Système fonctionnel prêt pour compétition."
   ]
   technologies = ["ESP32", "C", "Arduino", "capteurs", "communication LoRa"]
+
+
+[[experience]]
+  company = "IMT Atlantique (France)"
+  role = "Diplôme d'Ingénieur - Robotique et Interactions"
+  period = "2025 - 2027"
+  country = "France"
+  company_link = "https://www.imt-atlantique.fr/en"
+  description = "Double diplôme. Spécialisation en Robotique Mobile, Bio-inspirée et Planification de trajectoire."
+  responsibilities = [
+      "Projet collaboratif IMT-ARCEP : Analyse réglementaire automatisée via LLM.",
+      "Développement d'algorithmes sous ROS 2 et Linux.",
+      "Membre de l'équipe de football et futsal de l'école."
+  ]
+
+[[experience]]
+  company = "Hochschule Furtwangen"
+  role = "Échange Académique - Ingénierie Internationale"
+  period = "Sept 2024 - Fév 2025"
+  country = "Allemagne"
+  company_link = "https://www.hs-furtwangen.de/"
+  description = "Semestre d'échange avec la bourse d'excellence Baden-Württemberg-STIPENDIUM."
+  responsibilities = [
+      "Théorie du contrôle avancé et robotique autonome.",
+      "Projet de recherche en soufflerie de laboratoire.",
+      "Immersion linguistique et culturelle (Niveau A2)."
+  ]
+
+[[experience]]
+  company = "Universidad Nacional de Ingeniería"
+  role = "Licence en Ingénierie Mécatronique"
+  period = "2020 - 2025"
+  country = "Pérou"
+  company_link = "https://portal.uni.edu.pe/"
+  description = "Formation d'excellence en commande non linéaire, systèmes embarqués et automatisation. Top 10% de la promotion."
+  responsibilities = [
+      "Responsable Télémétrie - Équipe Eco Motors UNI.",
+      "Président du groupe de recherche CAMI.",
+      "Projet de fin d'études : Rover autonome Rocker-Bogie."
+  ]
+
+[[experience]]
+  company = "COAR Amazonas (Pérou)"
+  role = "Diplôme du Baccalauréat International (IB)"
+  period = "2016 - 2018"
+  country = "Pérou"
+  company_link = "https://www.minedu.gob.pe/colegios-de-alto-rendimiento/"
+  description = "Formation secondaire d'excellence axée sur la rigueur académique et l'autonomie."
+  responsibilities = [
+      "Mémoire de recherche en Physique.",
+      "Projets CAS (Créativité, Action, Service).",
+      "Formation bilingue intensive."
+  ]

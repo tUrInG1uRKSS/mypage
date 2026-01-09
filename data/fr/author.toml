@@ -3,20 +3,18 @@
   location = "Nantes, France"
   description = "Ingénieur en Mécatronique | Robotique et Systèmes Autonomes | Systèmes de Contrôle | I can quatre idiomas sprechen"
   
-  # Image de profil — assurez-vous que le fichier existe dans /static/images/
-  profile_image = "/images/photo1.jpeg"
+  # Image de profil
+  profile_image = "/images/profile.jpeg"
 
-  # Liens sociaux
-  github   = "https://github.com/tUrInG1uRKSS"
-  linkedin = "https://www.linkedin.com/in/leandrollontopllh/"
-  # twitter  = "https://twitter.com/yourusername"   # Supprimer si non utilisé
+  # Social links
   email    = "m.leandro.ll.herrera@gmail.com"
-
-  # Liens supplémentaires (optionnel)
-  # personal_website = "https://yourdomain.com"
-  # scholar = "https://scholar.google.com/..."
-  # instagram = "https://instagram.com/..."
-  cv = "/files/LeandroLlontopCV.pdf"
+  discord = "algorithm6174_23585"
+  github   = "https://github.com/tUrInG1uRKSS"
+  github_username = "tUrInG1uRKSS"
+  # twitter = "https://www.twitter.com/johndoe123"
+  # twitter_username = "johndoe123"
+  linkedin = "https://www.linkedin.com/in/leandrollontopllh/"
+  linkedin_username = "leandrollontopllh"
 
 # --- Honors & Awards ---
 [[honors]]
@@ -96,4 +94,3 @@
   organization = "Baccalauréat International (COAR Amazonas)"
   period = "2017 - 2018"
   description = "Réalisation de projets sociaux, actions de recyclage et préservation culturelle locale."
-  # url = "#"

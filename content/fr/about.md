@@ -15,5 +15,3 @@ Je cherche à contribuer à des projets innovants alliant contrôle, perception 
 
 ### Au-delà de l'ingénierie
 Je crois en la discipline et au travail d'équipe, des valeurs que je cultive à travers le sport. Je suis un joueur actif de **Football et de Futsal**. Je suis également passionné par la **Formule 1** (pour l'ingénierie et la stratégie !), le cinéma et le tennis de table.
-
-Je suis activement à la recherche d'un **stage (4 mois et plus) débutant en avril 2025**. Si vous recherchez un ingénieur rigoureux, curieux et adaptable, n'hésitez pas à me contacter !

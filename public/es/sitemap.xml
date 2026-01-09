@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/mypage/es/contact/</loc>
+    <lastmod>2026-01-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/mypage/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/mypage/fr/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/mypage/es/contact/"
+                />
+  </url><url>
     <loc>http://localhost:1313/mypage/es/</loc>
     <lastmod>2026-01-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -38,6 +56,132 @@
                 href="http://localhost:1313/mypage/es/about/"
                 />
   </url><url>
+    <loc>http://localhost:1313/mypage/es/blogs/</loc>
+    <lastmod>2023-03-15T10:30:00+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/mypage/blogs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/mypage/fr/blogs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/mypage/es/blogs/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/mypage/es/categories/</loc>
+    <lastmod>2023-03-15T10:30:00+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/mypage/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/mypage/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/mypage/es/categories/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/mypage/es/tags/hugo/</loc>
+    <lastmod>2023-03-15T10:30:00+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/mypage/tags/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/mypage/fr/tags/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/mypage/es/tags/hugo/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/mypage/es/blogs/my-first-blog/</loc>
+    <lastmod>2023-03-15T10:30:00+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/mypage/blogs/my-first-blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/mypage/fr/blogs/my-first-blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/mypage/es/blogs/my-first-blog/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/mypage/es/tags/</loc>
+    <lastmod>2023-03-15T10:30:00+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/mypage/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/mypage/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/mypage/es/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/mypage/es/categories/tutorials/</loc>
+    <lastmod>2023-03-15T10:30:00+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/mypage/categories/tutorials/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/mypage/fr/categories/tutorials/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/mypage/es/categories/tutorials/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/mypage/es/tags/web-development/</loc>
+    <lastmod>2023-03-15T10:30:00+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/mypage/tags/web-development/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/mypage/fr/tags/web-development/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/mypage/es/tags/web-development/"
+                />
+  </url><url>
     <loc>http://localhost:1313/mypage/es/experience/experience-a/</loc>
     <xhtml:link
                 rel="alternate"
@@ -70,23 +214,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="http://localhost:1313/mypage/es/projects/project-a/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/mypage/es/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/mypage/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/mypage/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/mypage/es/categories/"
                 />
   </url><url>
     <loc>http://localhost:1313/mypage/es/en/</loc>
@@ -138,23 +265,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="http://localhost:1313/mypage/es/projects/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/mypage/es/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/mypage/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/mypage/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/mypage/es/tags/"
                 />
   </url><url>
     <loc>http://localhost:1313/mypage/es/true/</loc>

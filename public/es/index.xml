@@ -9,11 +9,25 @@
     <lastBuildDate>Fri, 09 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/mypage/es/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Contacto</title>
+      <link>http://localhost:1313/mypage/es/contact/</link>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mypage/es/contact/</guid>
+      <description>&lt;p&gt;¿Estás buscando un ingeniero mecatrónico apasionado por la robótica y el control?&lt;/p&gt;&#xA;&lt;p&gt;Estoy disponible para &lt;strong&gt;oportunidades de prácticas (4+ meses) a partir de abril de 2025&lt;/strong&gt;. Me interesa colaborar en proyectos desafiantes que involucren robótica móvil, sistemas autónomos o investigación en control.&lt;/p&gt;&#xA;&lt;p&gt;Si tienes alguna pregunta sobre mis proyectos, quieres discutir una colaboración o simplemente hablar de &lt;strong&gt;Fórmula 1&lt;/strong&gt; o tecnología, ¡no dudes en escribirme!&lt;/p&gt;&#xA;&lt;p&gt;Puedes contactarme directamente a través de mi correo o mis redes sociales.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Sobre Mí</title>
       <link>http://localhost:1313/mypage/es/about/</link>
       <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/mypage/es/about/</guid>
       <description>&lt;p&gt;¡Hola! Soy &lt;strong&gt;Leandro Llontop Herrera&lt;/strong&gt;, Ingeniero Mecatrónico y entusiasta de la robótica, impulsado por el control de sistemas complejos y la integración mecatrónica.&lt;/p&gt;&#xA;&lt;p&gt;Actualmente estoy cursando un Máster en &lt;strong&gt;Robótica, Automatización y Sistemas Embebidos&lt;/strong&gt; en &lt;strong&gt;IMT Atlantique&lt;/strong&gt; en Nantes, Francia. Mi trayectoria académica abarca Perú, Alemania y Francia, lo que me otorga una perspectiva internacional única y un enfoque versátil para la resolución de problemas.&lt;/p&gt;&#xA;&lt;h3 id=&#34;qué-me-motiva&#34;&gt;¿Qué me motiva?&lt;/h3&gt;&#xA;&lt;p&gt;Busco contribuir a proyectos innovadores que combinen control, percepción y que cambien el mundo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/mypage/es/blogs/my-first-blog/</link>
+      <pubDate>Wed, 15 Mar 2023 10:30:00 +0530</pubDate>
+      <guid>http://localhost:1313/mypage/es/blogs/my-first-blog/</guid>
+      <description>&lt;p&gt;Your post content here&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>

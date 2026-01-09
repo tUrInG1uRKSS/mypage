@@ -23,3 +23,55 @@ responsibilities = [
   "Sistema funcional listo para la competencia."
 ]
 technologies = ["ESP32", "C", "Arduino", "Sensores", "Comunicación LoRa"]
+
+[[experience]]
+  company = "IMT Atlantique"
+  role = "Máster en Robótica y Sistemas Embebidos"
+  period = "2025 - 2027"
+  country = "Francia"
+  company_link = "https://www.imt-atlantique.fr/en"
+  description = "Doble titulación. Especialización en Robótica, Automática e Interacciones. Enfoque en robótica móvil, bio-inspirada y planificación de trayectorias."
+  responsibilities = [
+      "Desarrollo de algoritmos de navegación en ROS 2.",
+      "Proyecto colaborativo con ARCEP: Automatización de extracción de datos con LLMs.",
+      "Miembro del equipo de fútbol y futsal de la universidad."
+  ]
+
+[[experience]]
+  company = "Hochschule Furtwangen"
+  role = "Intercambio Académico - Ingeniería Internacional"
+  period = "Sept 2024 - Feb 2025"
+  country = "Alemania"
+  company_link = "https://www.hs-furtwangen.de/"
+  description = "Semestre de intercambio becado (Baden-Württemberg-STIPENDIUM). Enfoque en control avanzado y robótica autónoma."
+  responsibilities = [
+      "Investigación en laboratorio de túnel de viento.",
+      "Curso intensivo de alemán (Nivel A2).",
+      "Adaptación a metodologías de ingeniería alemana."
+  ]
+
+[[experience]]
+  company = "Universidad Nacional de Ingeniería (UNI)"
+  role = "Bachiller en Ingeniería Mecatrónica"
+  period = "2020 - 2025"
+  country = "Perú"
+  company_link = "https://portal.uni.edu.pe/"
+  description = "Formación rigurosa en automatización industrial, control no lineal y sistemas embebidos. Perteneciente al Tercio Superior."
+  responsibilities = [
+      "Líder de Telemetría en Eco Motors UNI (Shell Eco Marathon).",
+      "Presidente de la rama estudiantil CAMI (Robótica).",
+      "Tesis: Rover autónomo con suspensión Rocker-Bogie."
+  ]
+
+[[experience]]
+  company = "Colegios de Alto Rendimiento (COAR Amazonas)"
+  role = "Diploma de Bachillerato Internacional (IB)"
+  period = "2016 - 2018"
+  country = "Perú"
+  company_link = "https://www.minedu.gob.pe/colegios-de-alto-rendimiento/"
+  description = "Programa educativo de excelencia con enfoque en investigación y pensamiento crítico."
+  responsibilities = [
+      "Desarrollo de monografía de investigación en Física.",
+      "Proyectos de servicio social (CAS) y liderazgo estudiantil.",
+      "Certificación bilingüe avanzada."
+  ]

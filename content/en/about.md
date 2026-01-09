@@ -15,5 +15,3 @@ I seek to contribute to innovative projects that combine control, perception, an
 
 ### Beyond Engineering
 I believe in discipline and teamwork, values I cultivate through sports. I am an active **Football & Futsal player**. I am also passionate about **Formula 1** (for the engineering and strategy!), cinema, and table tennis. 
-
-I am actively looking for an **internship opportunity (4+ months) starting in April 2025**. If you are looking for a rigorous, curious, and adaptable engineer, let's connect!

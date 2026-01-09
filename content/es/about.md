@@ -15,5 +15,3 @@ Busco contribuir a proyectos innovadores que combinen control, percepción y que
 
 ### Más allá de la Ingeniería
 Creo en la disciplina y el trabajo en equipo, valores que cultivo a través del deporte. Soy jugador activo de **Fútbol y Futsal**. También me apasiona la **Fórmula 1** (¡por la ingeniería y la estrategia!), el cine y el tenis de mesa.
-
-Busco activamente una **oportunidad de prácticas (4+ meses) a partir de abril de 2025**. Si buscas un ingeniero riguroso, curioso y adaptable, ¡conectemos!
